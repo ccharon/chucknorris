@@ -1,0 +1,34 @@
+### post roundhouseaction unknown
+POST localhost:8080/chucknorris/roundhouseaction
+Content-Type: application/json
+
+{
+  "action": "ALERTAA"
+}
+
+### post roundhouseaction ALERT
+POST localhost:8080/chucknorris/roundhouseaction
+Content-Type: application/json
+
+{
+  "action": "ALERT"
+}
+
+### post roundhouseaction SUCCESS
+POST localhost:8080/chucknorris/roundhouseaction
+Content-Type: application/json
+
+{
+  "action": "SUCCESS"
+}
+
+### post roundhouseaction FAIL
+POST localhost:8080/chucknorris/roundhouseaction
+Content-Type: application/json
+
+{
+  "action": "FAIL"
+}
+
+### get fact
+GET localhost:8080/chucknorris/fact
