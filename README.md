@@ -9,3 +9,6 @@ you get 2 ressources
 
 for more examples see: [requests.http](./requests.http)
  
+Images and facts are taken from https://github.com/jenkinsci/chucknorris-plugin
+
+Also as requested the license from chucknorris-plugin is included in [LICENSE.txt](./LICENSE.txt)
